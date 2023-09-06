@@ -7,15 +7,14 @@
     </a>
   </div>
 
-
-
-  
+ <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/images/coding.gif" /><br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ng-fukgin/ng-fukgin/main/assets/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ng-fukgin/ng-fukgin/main/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ng-fukgin/ng-fukgin/main/assets/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
