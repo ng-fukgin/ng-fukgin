@@ -23,5 +23,5 @@
 <div align="center" >
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
