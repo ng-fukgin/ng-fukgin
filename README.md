@@ -7,8 +7,7 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/images/coding.gif" /><br>
+
 
   
 
