@@ -1,3 +1,12 @@
+<div align="center" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/messagif.gif" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/messagif.gif" />
+</picture>
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -21,11 +30,4 @@
 </div>
 
 
-<div align="center" >
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/messagif.gif" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/messagif.gif" />
-</picture>
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+
