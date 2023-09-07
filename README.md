@@ -1,5 +1,7 @@
 <div align="center">
-  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ng-fukgin/ng-fukgin/assets/messagif.gif" />
+</picture>
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
