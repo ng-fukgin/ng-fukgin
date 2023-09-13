@@ -1,23 +1,24 @@
-name: Generate Snake
+name: ci
+
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+
 jobs:
-  build:
+  autogreen:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: master
-          message: "Generate Contribution Snake"
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Auto green
+        run: |
+          git config --local user.email "2368603522@qq.com"
+          git config --local user.name "ng-fukgin"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          git commit --allow-empty -m "a commit a day keeps your girlfriend away"
+          git push
