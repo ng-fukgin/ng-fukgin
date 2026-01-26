@@ -13,7 +13,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=600&lines=print("Hello%2C+World!");console.log("Hello%2C+World!");System.out.println("Hello%2C+World!");printf("Hello%2C+World!");echo+"Hello%2C+World!";cout+<<+"Hello%2C+World!";&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=600&lines=print(%22Hello%2C+World!%22);console.log(%22Hello%2C+World!%22);System.out.println(%22Hello%2C+World!%22);printf(%22Hello%2C+World!%22);echo+%22Hello%2C+World!%22;cout+%3C%3C+%22Hello%2C+World!%22;&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
